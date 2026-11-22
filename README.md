@@ -4,7 +4,7 @@
 
 - ## 考核前期准备
 
-  1. [Github体验](D:\AAAsubrinanirbus\学校\实验室\Geek PM\考核前期准备\GitHub体验.md)
+  1. [Github体验]("D:\Geek PM\考核前期准备\GitHub体验.md")
 
 - ### Week 1
 
