@@ -4,7 +4,7 @@
 
 - ## 考核前期准备
 
-  1. [Github体验]([PM-Tasks-/考核前期准备/GitHub体验.md at main · gjo4o4/PM-Tasks-](https://github.com/gjo4o4/PM-Tasks-/blob/main/考核前期准备/GitHub体验.md))
+  1. [Github体验](https://github.com/gjo4o4/PM-Tasks-/blob/main/考核前期准备/GitHub体验.md)
 
 - ### Week 1
 
