@@ -1,12 +1,12 @@
 # Geek PM方向考核任务仓库
 
-# 索引
+# 🔍索引
 
 - ## 考核前期准备
 
   1. [Github体验](https://github.com/gjo4o4/PM-Tasks-/blob/main/考核前期准备/GitHub体验.md)
 
-- ### Week 1
+- ### Week 1🚩
 
   1. [阅读笔记]()
   2. [产品体验文档]()
