@@ -50,7 +50,7 @@
   
 - ## 来源
 
-  1. [b站：什么是GitHub](【什么是GitHub？-哔哩哔哩】 https://b23.tv/uCz9dsw)
+  1. [b站：什么是GitHub]( https://b23.tv/uCz9dsw)
   2. [知乎1](https://www.zhihu.com/question/1905540194452640867/answer/2016097614794359049?share_code=1m37UKu1CO5bE&utm_psn=2107835618327904397)
   3. [知乎2](https://www.zhihu.com/question/1905540194452640867/answer/2039477937062273848?share_code=vwa6VFYmJqfZ&utm_psn=2107864936013682372)
 
