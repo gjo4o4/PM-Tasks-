@@ -9,7 +9,7 @@
 - ### Week 1🚩
 
   1. [阅读笔记](https://github.com/gjo4o4/PM-Tasks-/blob/main/Week 1/阅读笔记  --《从电子到产品》.md)
-  2. [产品体验文档1-网易云](https://github.com/gjo4o4/PM-Tasks-/blob/main/Week 1/产品体验文档-网易云.md)
+  2. [产品体验文档1-网易云](https://github.com/gjo4o4/PM-Tasks-/blob/main/Week%201/产品体验文档-网易云.md)
   3. [产品体验文档2-酷狗音乐](https://github.com/gjo4o4/PM-Tasks-/blob/main/Week 1/产品体验文档-网易云.md)
 
 - ### Week 2
